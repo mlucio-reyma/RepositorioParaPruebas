@@ -15,6 +15,8 @@ namespace PruebasGIT
         public FrmInicio()
         {
             InitializeComponent();
+
+            MessageBox.Show("Hubo modificaciones", "Aviso", MessageBoxButtons.OK);
         }
     }
 }
