@@ -9,5 +9,6 @@ namespace PruebasGIT.Entidades
     public class Usuarios
     {
         public string Domicilio { get; set; }
+        public string NombreUsuario  { get; set; }
     }
 }
